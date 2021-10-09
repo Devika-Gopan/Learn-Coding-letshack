@@ -1,4 +1,4 @@
-class  Devika-Gopan
+class Devika-Gopan
 {
     public static void main(String[] args) 
     {
